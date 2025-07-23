@@ -4,6 +4,8 @@
  * Created: 2024-04-08 오후 2:22:36
  * Author : 김종원
  */ 
+// THIS IS Number #1
+
 #define F_CPU  3333333UL
 #include <avr/io.h>
 #include <util/delay.h>
